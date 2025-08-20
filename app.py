@@ -1205,4 +1205,5 @@ if __name__ == "__main__":
     main()
     
     # Show app information
+
     show_app_info()
